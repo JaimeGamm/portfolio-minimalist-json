@@ -1,94 +1,112 @@
 {
     "basics": {
-      "name": "Miguel Ángel Durán",
-      "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+      "name": "Jaime De Jesus Saenz Gamboa",
+      "label": "Soy un Desarrollador Web y Analista de Datos con más de un año de experiencia, además de ser un ingeniero de sistemas. Mis habilidades destacadas incluyen comunicación y trabajo en equipo. ",
       "image": "/me.webp",
-      "email": "miduga@gmail.com",
-      "phone": "+34 688888888",
-      "url": "https://midu.dev",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "email": "jaimedejesusgamm1@gmail.com",
+      "phone": "+57 3004604422",
+      "url": "https://portafolio-jaime-saenz.netlify.app/",
+      "summary": "Estudié hasta el cuarto semestre de la licenciatura en matemáticas, donde cultivé un profundo amor por los números y el análisis de datos. Posteriormente, decidí cambiar a la ingeniería de sistemas, fusionando los conocimientos adquiridos en la licenciatura. Esta combinación resultó invaluable para mis habilidades en los campos de desarrollo y análisis de datos.",
       "location": {
         "address": "",
         "postalCode": "08820",
-        "city": "el Prat de Llobregat",
+        "city": "Bogotá",
         "countryCode": "ES",
-        "region": "España"
+        "region": "Colombia"
       },
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
-        },
-        {
-          "network": "X",
-          "username": "midudev",
-          "url": "https://x.com/midudev"
+          "username": "Jaime De Jesus Saenz Gamboa",
+          "url": "https://www.linkedin.com/in/jaime-de-jesus-saenz-gamboa"
         },
         {
           "network": "GitHub",
           "username": "midudev",
-          "url": "https://github.com/midudev"
+          "url": "https://github.com/JaimeGamm"
         }
       ]
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
-        "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "name": "Jaime De Jesus Saenz Gamboa",
+        "position": "Pasante de Analitica e-Commerce",
+        "url": "",
+        "startDate": "20/06/2023",
+        "endDate": "18/12/2023",
+        "summary": "Responsable de la Automatización del Procesos SEO utilizando Python, Estrategia SEO (HREFLANGS y Redirecciones), Pruebas de Sitio Web Manuales y Automatizadas, Elaboración de Informes utilizando Data Studio.",
         "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-        "highlights": [
-          "Started the company"
+          "Avianca"
         ]
       }
     ],
     "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
+      "organization": " ",
+      "position": " ",
+      "url": " ",
+      "startDate": " ",
+      "endDate": " ",
+      "summary": " ",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "  "
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
+      "institution": "Universidad Pedagógica Y Tecnológica De Colombia ",
+      "url": "https://www.uptc.edu.co/sitio/portal/",
+      "area": "Ingeniería De Sistemas Y Computación",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }],
+      "startDate": "01/06/2018",
+      "endDate": "30/11/2023",
+      "score": " "
+      },
+      {
+        "institution": "IBM",
+        "url": " ",
+        "area": "Curso Python for Data Science",
+        "studyType": "Bachelor",
+        "startDate": "01/06/2018",
+        "endDate": "30/11/2023",
+        "score": " "
+      },
+      {
+        "institution": "Coursera Learner - UC CHILE",
+        "url": "https://www.uptc.edu.co/sitio/portal/",
+        "area": "Curso Introducción a la Minería de Datos",
+        "studyType": "Bachelor",
+        "startDate": "10/01/2024",
+        "endDate": "29/01/2024",
+        "score": " "
+        },
+        {
+          "institution": "4GO Academy",
+          "url": "",
+          "area": "Curso Intensivo de Power BI ",
+          "studyType": "Bachelor",
+          "startDate": "15/01/2024",
+          "endDate": "19/01/2024",
+          "score": " "
+        },
+        {
+          "institution": "Semrush Academy",
+          "url": "",
+          "area": "Curso intensivo de SEO de Semrush",
+          "studyType": "Bachelor",
+          "startDate": "03/06/2023",
+          "endDate": "23/06/2023",
+          "score": " "
+        },
+        {
+          "institution": "Coursera, Google",
+          "url": "",
+          "area": "Curso Excel aplicado a los negocios (Nivel Avanzado)",
+          "studyType": "Bachelor",
+          "startDate": "15/01/2024",
+          "endDate": "19/01/2024",
+          "score": " "
+        }
+
+    ],
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
@@ -110,12 +128,62 @@
     }],
     "skills": [
       {
+        "name": "MicroSoft Power BI",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
+        "name": "Google Datastudio",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
+        "name": "Excel avanzado",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
+        "name": "SEO",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
+        "name": "Screaming Frog",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
+        "name": "Google Analitycs",
+        "level": "Master",
+        "keywords": [
+          "Analisis de datos"
+        ]
+      },
+      {
         "name": "HTML",
         "level": "Master",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
+
       {
         "name": "CSS",
         "level": "Master",
@@ -210,66 +278,50 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Trinsk",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Trinsk es un proyecto colaborativo que recopila y analiza datos otorgados por la alcaldía de medellín , que permite identificar riesgosidad, zonas de gran accidentalidad de tráfico y visualización de data.",
         "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
+          "React",
+          "Python",
+          "Mongo DB"
         ],
-        "url": "https://mars.codes"
+        "url": null
       },
       {
-        "name": "AdventJS",
-        "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "name": "APPDEMY",
+        "isActive": false,
+        "description": "Es un aplicativo web que permite gestionar la información del desarrollo de una academia de taekwondo",
         "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
-          "JavaScript & TypeScript"
+          "JavaScript",
+          "React",
+          "Node.js",
+          "Mysql"
         ],
-        "url": "https://advent.js/dev"
+        "url": null
       },
       {
-        "name": "Codember",
+        "name": "Predicción del Valor de Viviendas en California mediante",
         "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
+        "description": "Es un proyecto de machine learning utilizando un conjunto de datos cuyo objetivo era predecir el valor de las viviendas por zonas en California.",
         "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
+          "Machine Learning",
+          "Python",
+          "Power Bi"
         ],
-        "url": "https://codember.dev"
+        "url": null
       },
       {
-        "name": "codi.link",
+        "name": "DASHABOARD FINACIERO",
         "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
+        "description": "Se desarrolló un DASHBOARD FINANCIERO que facilita la respuesta a preguntas clave, tales como: ¿Cuáles son las ventas totales en un periodo? y ¿Ventas totales por artículos?. Este dashboard se construyó mediante un proceso ETL.",
         "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
+          "Power Bi",
+          "Mysql"
         ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+        "url": " ",
+        "github": " "
       }
+      
     ]
   }

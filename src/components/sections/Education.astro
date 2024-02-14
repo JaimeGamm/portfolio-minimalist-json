@@ -8,9 +8,9 @@ import { education } from "@cv"
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
-        const startYear = new Date(startDate).getFullYear()
+        const startYear = startDate
         const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual"
+          endDate != null ? endDate : "Actual"
         const years = `${startYear} - ${endYear}`
 
         return (
@@ -21,7 +21,7 @@ import { education } from "@cv"
                   <h3>{institution}</h3>
                 </div>
 
-                <time>{years}</time>
+                <time>{startYear} - {endYear}</time>
               </header>
 
               <footer>
