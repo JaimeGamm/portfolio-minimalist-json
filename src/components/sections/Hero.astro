@@ -21,7 +21,8 @@ const SOCIAL_ICONS: Record <string, any>={
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
 const linkedUrl = linkedInfo?.url
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+const printInfo = [email, phone, linkedUrl].filter(Boolean).join("  •  ")
+
 ---
 <Section>
     <div class="container">
@@ -33,7 +34,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
           {city}, {region}
         </span>
         <footer class="print">
-          {printInfo}
+          <Phone /> {phone} <Mail /> {email} <br>
+          <LinkedIn /> <a class="enlace" href={linkedUrl} target="_blank" style="margin-left: 123px; color: #555;">{linkedUrl}</a> <br>
+          
         </footer>
         <footer class="no-print">
           {
@@ -153,6 +156,17 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       border: 1px solid #ddd;
     }
   
+    .print{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      font-size: 0.85rem;
+      line-height: 1.5; 
+      
+
+    }
+    
+
     @media (width <= 700px) {
       .container {
         flex-direction: column-reverse;
