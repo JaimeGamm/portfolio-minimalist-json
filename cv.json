@@ -29,8 +29,8 @@
     },
     "work": [
       {
-        "name": "Jaime De Jesus Saenz Gamboa",
-        "position": "Pasante de Analitica e-Commerce",
+        "name": "Pasante de Analitica e-Commerce",
+        "position": "Avianca",
         "url": "",
         "startDate": "20/06/2023",
         "endDate": "18/12/2023",
@@ -319,8 +319,20 @@
           "Power Bi",
           "Mysql"
         ],
-        "url": " ",
-        "github": " "
+        "url": "",
+        "github": ""
+      },
+      {
+        "name": "GAMM FOTOGRAFIA",
+        "isActive": true,
+        "description": "Es una página web cuyo objetivo es exhibir mi trabajo fotográfico, destacando la belleza de la naturaleza, retratos cautivadores y mis fascinantes viajes. ",
+        "highlights": [
+          "JavaScript",
+          "Astro",
+          "Tailwind CSS"
+        ],
+        "url": "https://jaimegamm-fotografo.netlify.app/",
+        "github": ""
       }
       
     ]
