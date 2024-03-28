@@ -32,9 +32,20 @@
         "name": "Pasante de Analitica e-Commerce",
         "position": "Avianca",
         "url": "",
-        "startDate": "20/06/2023",
-        "endDate": "18/12/2023",
+        "startDate": "Junio/2023",
+        "endDate": "Diciembre/2023",
         "summary": "Responsable de la Automatización del Procesos SEO utilizando Python, Estrategia SEO (HREFLANGS y Redirecciones), Pruebas de Sitio Web Manuales y Automatizadas, Elaboración de Informes utilizando Data Studio.",
+        "highlights": [
+          "Avianca"
+        ]
+      },
+      {
+        "name": "Desarrollador Web Junior",
+        "position": "Academia de Taekwondo Sue",
+        "url": "",
+        "startDate": "Julio/2022",
+        "endDate": "Diciembre/2022",
+        "summary": "Contribuí al desarrollo de una aplicación web para una academia de taekwondo, utilizando React.js, node.js y MySQL bajo la metodología ágil Scrum. La aplicación gestionaba información para usuarios, instructores y administrativos.",
         "highlights": [
           "Avianca"
         ]
@@ -56,8 +67,8 @@
       "url": "https://www.uptc.edu.co/sitio/portal/",
       "area": "Ingeniería De Sistemas Y Computación",
       "studyType": "Bachelor",
-      "startDate": "01/06/2018",
-      "endDate": "30/11/2023",
+      "startDate": "Junio/2018",
+      "endDate": "Noviembre/2023",
       "score": " "
       },
       {
@@ -65,8 +76,8 @@
         "url": " ",
         "area": "Curso Python for Data Science",
         "studyType": "Bachelor",
-        "startDate": "01/06/2018",
-        "endDate": "30/11/2023",
+        "startDate": "Enero/2024",
+        "endDate": "Enero/2024",
         "score": " "
       },
       {
@@ -74,8 +85,8 @@
         "url": "https://www.uptc.edu.co/sitio/portal/",
         "area": "Curso Introducción a la Minería de Datos",
         "studyType": "Bachelor",
-        "startDate": "10/01/2024",
-        "endDate": "29/01/2024",
+        "startDate": "Enero/2024",
+        "endDate": "Febrero/2024",
         "score": " "
         },
         {
@@ -83,8 +94,8 @@
           "url": "",
           "area": "Curso Intensivo de Power BI ",
           "studyType": "Bachelor",
-          "startDate": "15/01/2024",
-          "endDate": "19/01/2024",
+          "startDate": "Enero/2024",
+          "endDate": "Enero/2024",
           "score": " "
         },
         {
@@ -92,8 +103,8 @@
           "url": "",
           "area": "Curso intensivo de SEO de Semrush",
           "studyType": "Bachelor",
-          "startDate": "03/06/2023",
-          "endDate": "23/06/2023",
+          "startDate": "Junio/2023",
+          "endDate": "Julio/2023",
           "score": " "
         },
         {
@@ -101,8 +112,8 @@
           "url": "",
           "area": "Curso Excel aplicado a los negocios (Nivel Avanzado)",
           "studyType": "Bachelor",
-          "startDate": "15/01/2024",
-          "endDate": "19/01/2024",
+          "startDate": "Junio/2023",
+          "endDate": "Julio/2023",
           "score": " "
         }
 
@@ -335,5 +346,15 @@
         "github": ""
       }
       
+    ],
+    "achievements": [
+      {
+        "name": "TRABAJO DE GRADO MERITORIO",
+        "position": "Universidad Pedagógica y Tecnológica de Colombia, Tunja",
+        "url": "",
+        "startDate": "Junio/2023",
+        "endDate": "Octubre/2023",
+        "summary": "Título Seguimiento Y Análisis De Las Métricas Del Ecommerce"
+      }
     ]
   }
